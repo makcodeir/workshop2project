@@ -1,2 +1,2 @@
-# this is for just for workshop
+# this is just for workshop
 My name is Abolfazl Daimekar 
